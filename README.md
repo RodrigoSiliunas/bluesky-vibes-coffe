@@ -54,3 +54,5 @@ O **TF-IDF** é uma técnica que ajusta a contagem de palavras com base em sua i
 Este é um projeto acadêmico, mas contribuições são bem-vindas. Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## ▶️ Video Explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/EXEMPLO/hqdefault.jpg)](https://www.youtube.com/watch?v=7QjMWERwf34)
